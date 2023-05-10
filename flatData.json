@@ -1,0 +1,202 @@
+{
+  "flats": [
+    {
+      "Name": "Wohnungsname1",
+      "Stadt": "Berlin",
+      "Viertel": "Mitte",
+      "Adresse": "Alexanderplatz 1",
+      "Preis": 1500,
+      "Groesse": 65,
+      "Zimmer": 2,
+      "Datum": "2023-05-10",
+      "Link": "https://example.com/flat1"
+    },
+    {
+      "Name": "Wohnungsname2",
+      "Stadt": "Berlin",
+      "Viertel": "Kreuzberg",
+      "Adresse": "Oranienstraße 42",
+      "Preis": 1800,
+      "Groesse": 70,
+      "Zimmer": 3,
+      "Datum": "2023-05-09",
+      "Link": "https://example.com/flat2"
+    },
+    {
+      "Name": "Wohnungsname3",
+      "Stadt": "Berlin",
+      "Viertel": "Prenzlauer Berg",
+      "Adresse": "Kastanienallee 23",
+      "Preis": 2200,
+      "Groesse": 95,
+      "Zimmer": 4,
+      "Datum": "2023-05-08",
+      "Link": "https://example.com/flat3"
+    },
+    {
+      "Name": "Wohnungsname4",
+      "Stadt": "Berlin",
+      "Viertel": "Charlottenburg",
+      "Adresse": "Kurfürstendamm 100",
+      "Preis": 2800,
+      "Groesse": 113,
+      "Zimmer": 4,
+      "Datum": "2023-05-07",
+      "Link": "https://example.com/flat4"
+    },
+    {
+      "Name": "Wohnungsname5",
+      "Stadt": "Berlin",
+      "Viertel": "Neukölln",
+      "Adresse": "Sonnenallee 50",
+      "Preis": 1300,
+      "Groesse": 50,
+      "Zimmer": 2,
+      "Datum": "2023-05-06",
+      "Link": "https://example.com/flat5"
+    },
+    {
+      "Name": "Wohnungsname6",
+      "Stadt": "Berlin",
+      "Viertel": "Friedrichshain",
+      "Adresse": "Warschauer Straße 80",
+      "Preis": 1900,
+      "Groesse": 78,
+      "Zimmer": 3,
+      "Datum": "2023-05-05",
+      "Link": "https://example.com/flat6"
+    },
+    {
+      "Name": "Wohnungsname7",
+      "Stadt": "Berlin",
+      "Viertel": "Wedding",
+      "Adresse": "Müllerstraße 10",
+      "Preis": 900,
+      "Groesse": 45,
+      "Zimmer": 1,
+      "Datum": "2023-05-04",
+      "Link": "https://example.com/flat7"
+    },
+    {
+      "Name": "Wohnungsname8",
+      "Stadt": "Berlin",
+      "Viertel": "Mitte",
+      "Adresse": "Müllerstraße 10",
+      "Preis": 900,
+      "Groesse": 50,
+      "Zimmer": 1,
+      "Datum": "2023-05-04",
+      "Link": "https://example.com/flat7"
+    },
+    {
+      "Name": "Wohnungsname11",
+      "Stadt": "Berlin",
+      "Viertel": "Mitte",
+      "Adresse": "Alexanderplatz 1",
+      "Preis": 1500,
+      "Groesse": 70,
+      "Zimmer": 2,
+      "Datum": "2023-05-10",
+      "Link": "https://example.com/flat1"
+    },
+    {
+      "Name": "Wohnungsname12",
+      "Stadt": "Berlin",
+      "Viertel": "Kreuzberg",
+      "Adresse": "Oranienstraße 42",
+      "Preis": 1800,
+      "Groesse": 75,
+      "Zimmer": 3,
+      "Datum": "2023-05-09",
+      "Link": "https://example.com/flat2"
+    },
+    {
+      "Name": "Wohnungsname13",
+      "Stadt": "Berlin",
+      "Viertel": "Prenzlauer Berg",
+      "Adresse": "Kastanienallee 23",
+      "Preis": 2200,
+      "Groesse": 90,
+      "Zimmer": 4,
+      "Datum": "2023-05-08",
+      "Link": "https://example.com/flat3"
+    },
+    {
+      "Name": "Wohnungsname14",
+      "Stadt": "Berlin",
+      "Viertel": "Charlottenburg",
+      "Adresse": "Kurfürstendamm 100",
+      "Preis": 2800,
+      "Groesse": 110,
+      "Zimmer": 4,
+      "Datum": "2023-05-07",
+      "Link": "https://example.com/flat4"
+    },
+    {
+      "Name": "Wohnungsname15",
+      "Stadt": "Berlin",
+      "Viertel": "Neukölln",
+      "Adresse": "Sonnenallee 50",
+      "Preis": 1300,
+      "Groesse": 55,
+      "Zimmer": 2,
+      "Datum": "2023-05-06",
+      "Link": "https://example.com/flat5"
+    },
+    {
+      "Name": "Wohnungsname16",
+      "Stadt": "Berlin",
+      "Viertel": "Friedrichshain",
+      "Adresse": "Warschauer Straße 80",
+      "Preis": 1900,
+      "Groesse": 70,
+      "Zimmer": 3,
+      "Datum": "2023-05-05",
+      "Link": "https://example.com/flat6"
+    },
+    {
+      "Name": "Wohnungsname17",
+      "Stadt": "Berlin",
+      "Viertel": "Wedding",
+      "Adresse": "Müllerstraße 10",
+      "Preis": 900,
+      "Groesse": 40,
+      "Zimmer": 1,
+      "Datum": "2023-05-04",
+      "Link": "https://example.com/flat7"
+    },
+    {
+      "Name": "Wohnungsname18",
+      "Stadt": "Berlin",
+      "Viertel": "Mitte",
+      "Adresse": "Müllerstraße 10",
+      "Preis": 900,
+      "Groesse": 40,
+      "Zimmer": 1,
+      "Datum": "2023-05-04",
+      "Link": "https://example.com/flat7"
+    },
+    {
+      "Name": "Wohnungsname19",
+      "Stadt": "Berlin",
+      "Viertel": "Schöneberg",
+      "Adresse": "Kleistpark 10",
+      "Preis": 600,
+      "Groesse": 30,
+      "Zimmer": 1,
+      "Datum": "2023-05-04",
+      "Link": "https://example.com/flat7"
+    },
+    {
+      "Name": "Wohnungsname20",
+      "Stadt": "Berlin",
+      "Viertel": "Schöneberg",
+      "Adresse": "Feurigstr 40",
+      "Preis": 500,
+      "Groesse": 20,
+      "Zimmer": 1,
+      "Datum": "2023-05-04",
+      "Link": "https://example.com/flat7"
+    }
+  ]
+}
